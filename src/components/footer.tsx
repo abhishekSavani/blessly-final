@@ -76,8 +76,8 @@ const Footer = () => {
           </Link>
           <div sx={{ mx: 1 }}>by</div>
           {` `}
-          <Link aria-label="Link to the theme author's website" href="https://www.lekoarts.de/en">
-            LekoArts
+          <Link aria-label="Link to the theme author's website" href="https://www.blessly.in/">
+            Blessly Creation
           </Link>
         </Container>
       )}
